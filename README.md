@@ -1,5 +1,7 @@
 # Blinkit-Sales-Dashboard-Analysis
 
+Interactive Power BI dashboard analyzing Blinkit sales performance, outlet distribution, item categories, and customer ratings to generate actionable business insights.
+
 ##  Objectives
 - Analyze overall **sales performance**
 - Identify top-performing **item categories**
