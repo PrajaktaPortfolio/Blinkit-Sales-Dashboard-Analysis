@@ -1,9 +1,5 @@
 # Blinkit-Sales-Dashboard-Analysis
 
-## 🟡 Project Overview
-This project is an **interactive Power BI dashboard** created to analyze sales data for **Blinkit – India’s Last Minute App**.  
-The dashboard provides insights into **sales performance, outlet types, item categories, ratings, and outlet establishment trends**.
-
 ##  Objectives
 - Analyze overall **sales performance**
 - Identify top-performing **item categories**
